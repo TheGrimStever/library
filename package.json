@@ -1,0 +1,16 @@
+{
+  "name": "library-app",
+  "version": "1.0.0",
+  "description": "To help manage my personal library of books",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "pg-promise": "^4.0.10"
+  }
+}
